@@ -7,9 +7,9 @@ Neste projeto implementamos uma lista de games, onde pude revisar sobre relacion
 classes de associação e como aplicar isto na prática.
 
 Ao realizar o projeto passo a passo pude aprender a respeito da organização das pastas, 
-utilização do método DTO para transferência de dados através das camadas do *Padrao Camadas*.
+utilização do método **DTO** para transferência de dados através das camadas do **Padrao Camadas** e o padrão **REST**.
 
-Por meio deste também pude aprender bastantes notações, dentre elas as notações para Mapeamento de Objeto Relacional - *ORM*,
-tais como *@Entity*, *@Table* e etc.
+Por meio deste também pude aprender bastantes notações, dentre elas as notações para Mapeamento de Objeto Relacional - **ORM**,
+tais como **@Entity**, **@Table** e etc.
 
 O projeto abordou desde a inicialização em si, utilizando o Spring Initialzr, até a implantação em nuvem utilizando o Railway.
